@@ -1,0 +1,31 @@
+.body{
+    display: flex;
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+.footer{
+    width: 100%;
+    background-color: rgb(119, 5, 5);
+    text-align: center;
+    margin: 0%;
+    padding: 20 px;
+}
+.banner{
+    width: 100%;
+    background-color: rgb(209, 133, 19);
+    text-align: center;
+    margin: 0%;
+    padding: 20 px;
+}
+
+.footer{
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin: 0%;
+    padding: 20 px;
+
+}
